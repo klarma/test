@@ -5,7 +5,7 @@ const SeeMore = () => {
 
   return (
     <>
-      <p>See more and more</p>
+      <p>See more and more no more</p>
       <p>{counter}</p>
       <button onClick={() => setCounter((previouscounter) => previouscounter + 1)}>
         Increase number
