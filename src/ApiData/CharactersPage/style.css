@@ -1,0 +1,11 @@
+.character{
+    color: blue;
+}
+
+.hideCharacter{
+    opacity: 0;
+}
+
+.button{
+    border: 2px solid blue;
+}
