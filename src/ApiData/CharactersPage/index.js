@@ -8,7 +8,6 @@ const CharactersPage = ({ setTitle, calculateResult }) => {
   const [number, setNumber] = useState(0);
 
   // const ratesData = useRatesData();
-  // console.log(ratesData);
   const handleClick = () => {
     calculateResult(number);
   };
